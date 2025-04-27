@@ -42,7 +42,7 @@ footer {
 
 <footer>
     💡🧠🤓 <strong>Want to learn how I come up with responses?</strong>
-    <a href="https://ai.meta.com/tools/system-cards/ai-systems-that-generate-text/" target="_blank" style="color: #007BFF; text-decoration: none;">
+    <a href="https://huiminlee5699.github.io/textt/" target="_self" style="color: #007BFF; text-decoration: none;">
         Read more here →
     </a>
 </footer>
